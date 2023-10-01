@@ -1,7 +1,7 @@
-# Café Florette
+# Site vitrine du Café Florette
 
-## Site vitrine
+### HTML - CSS - Responsive
 
-### HTML - CSS - JavaScript
+### JavaScript
 
 - online : [Le Café Florette](https://filoudcode.github.io/cafe_florette)
